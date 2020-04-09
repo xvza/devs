@@ -1,0 +1,112 @@
+[
+  {
+    "name":   "монαммαᴅ ιвn мusα αʟ-кншαгιzмι",
+    "wiki":   "//simple.wikipedia.org/wiki/Al-Khwarizmi",
+    "img":    "khwarizmi.jpg",
+    "date": [
+      {"name":"780",        "color":"light"},
+      {"name":"850",        "color":"light"}
+    ],
+    "notable": [
+      {"name":"Matematik",  "color":"primary"},
+      {"name":"Geograf",    "color":"primary"},
+      {"name":"Astrolog",   "color":"primary"},
+      {"name":"Astronom",   "color":"primary"}
+    ],
+    "message": [
+      "Originaire de Khiva dans la région du Khwarezm qui lui a donné son nom, membre de la Maison de la sagesse de Bagdad.",
+      "Ses écrits, rédigés en langue arabe, ont permis l'introduction de l'algèbre en Europe.",
+      "Sa vie s'est déroulée à l'époque de la dynastie abbasside.",
+      "L'utilisation des chiffres arabes et leur diffusion dans le Moyen-Orient et en Europe sont dues à un autre de ses livres nommé Traité du système de numération des Indiens qui fut diffusé dans tout l'empire abbasside.",
+      "In addition, he revised Ptolemy's Geography, listing the longitudes and latitudes of various cities and localities. He further produced a set of astronomical tables and wrote about calendaric works, as well as the astrolabe and the sundial. He also made important contributions to trigonometry, producing accurate sine and cosine tables, and the first table of tangents."
+    ]
+  },
+  {
+    "name":   "αʟαп мατнιsоп τuгιпɢ",
+    "wiki":   "//simple.wikipedia.org/wiki/Alan_Turing",
+    "img":    "turing.jpg",
+    "date": [
+      {"name":"1912",        "color":"light"},
+      {"name":"1954",        "color":"light"}
+    ],
+    "notable": [
+      {"name":"Matematik",  "color":"primary"},
+      {"name":"Cryptolog",  "color":"primary"}
+    ],
+    "message": [
+      "Auteur de travaux qui fondent scientifiquement l'informatique.",
+      "He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation « Turing machine », which can be considered a model of a general-purpose computer.",
+      "Where he designed the Automatic Computing Engine, which was one of the first designs for a stored-program computer. He helped develop the Manchester computers and became interested in mathematical biology. He wrote a paper on the chemical basis of morphogenesis and predicted oscillating chemical reactions such as the Belousov–Zhabotinsky reaction."
+    ]
+  },
+  {
+    "name":   "ᴊαсquε ꜰгεsсо",
+    "wiki":   "//simple.wikipedia.org/wiki/Jacque_Fresco",
+    "img":    "fresco.jpg",
+    "date": [
+      {"name":"1916",        "color":"light"},
+      {"name":"2017",        "color":"light"}
+    ],
+    "notable": [
+      {"name":"Engineer",   "color":"primary"},
+      {"name":"Architect",  "color":"primary"},
+      {"name":"Designer",   "color":"primary"},
+      {"name":"Futurist",   "color":"primary"}
+    ],
+    "message": [
+      "Il écrit et donne des conférences à propos de ses visions sur les villes durables, l'efficacité énergétique, la gestion des ressources naturelles, la cybernétique, l'automation avancée ainsi que le rôle de la science dans la société.",
+      "il est le fondateur et directeur de « The Venus Project ».",
+      "Fresco wrote and lectured his views on sustainable cities, energy efficiency, natural-resource management, cybernetic technology, automation, and the role of science in society. He advocated global implementation of a socioeconomic system which he referred to as « resource-based economy »."
+    ]
+  },
+  {
+    "name":   "ᴅεппιs мαсαʟιsταιг гιτснιε",
+    "wiki":   "//simple.wikipedia.org/wiki/Dennis_Ritchie",
+    "img":    "ritchie.jpg",
+    "date": [
+      {"name":"1941",        "color":"light"},
+      {"name":"2011",        "color":"light"}
+    ],
+    "notable": [
+      {"name":"Programer",  "color":"primary"}
+    ],
+    "message": [
+      "Pionniers de l'informatique moderne, inventeur du langage C et codéveloppeur de Unix.",
+      "Ritchie were awarded the Turing Award from the ACM, the Hamming Medal from the IEEE and the National Medal of Technology.",
+      "Ritchie was the head of Lucent Technologies System Software Research Department."
+    ]
+  },
+  {
+    "name":   "гιснαгᴅ мαττнεш sταʟʟмαп",
+    "wiki":   "//simple.wikipedia.org/wiki/Richard_Stallman",
+    "img":    "stallman.jpg",
+    "date": [
+      {"name":"1953",        "color":"light"}
+    ],
+    "notable": [
+      {"name":"Programer",  "color":"primary"}
+    ],
+    "message": [
+      "Militant et initiateur du mouvement du logiciel libre.",
+      "il lance le projet GNU et la licence publique générale GNU connue aussi sous le sigle GPL.",
+      "Stallman pioneered the concept of copyleft, which uses the principles of copyright law to preserve the right to use, modify and distribute free software, and is the main author of free software licenses.",
+      "he co-founded the League for Programming Freedom. Since the mid-1990s, Stallman had spent most of his time advocating for free software, as well as campaigning against software patents, digital rights management (which he referred to as digital restrictions management, calling the more common term misleading), and other legal and technical systems which taking away users freedoms."
+    ]
+  },
+  {
+    "name":   "кεппετн ʟαпε τномπsоп",
+    "wiki":   "//simple.wikipedia.org/wiki/Ken_Thompson",
+    "img":    "thompson.jpg",
+    "date": [
+      {"name":"1943",        "color":"light"}
+    ],
+    "notable": [
+      {"name":"Programer",  "color":"primary"}
+    ],
+    "message": [
+      "He designed and implemented the original Unix operating system.",
+      "He also invented the B programming language, the direct predecessor to the C programming language, and was one of the creators and early developers of the Plan 9 operating system.",
+      "Other notable contributions included his work on regular expressions and early computer text editors and encoding."
+    ]
+  }
+]

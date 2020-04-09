@@ -1,0 +1,196 @@
+[
+  {
+    "title": [
+      {"name": "epsi",          "color": "dark"     }
+    ],
+    "subtitle": [
+      {"name": "master 2",      "color": "primary"  }
+    ],
+    "teach": [
+      {"name": "management",    "color": "white"    },
+      {"name": "droit",         "color": "white"    }
+    ],
+    "year": [
+      {"name": "2014",          "color": "light"    },
+      {"name": "2013",          "color": "light"    }
+    ],
+    "loc": "92",
+    "location": [
+      {"name": "levallois",     "color": "info"     },
+      {"name": "perret",        "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "supinfo",       "color": "dark"     }
+    ],
+    "subtitle": [
+      {"name": "master 1",      "color": "primary"  }
+    ],
+    "teach": [
+      {"name": "informatik",    "color": "white"    }
+    ],
+    "year": [
+      {"name": "2013",          "color": "light"    },
+      {"name": "2012",          "color": "light"    }
+    ],
+    "loc": "75",
+    "location": [
+      {"name": "parnasse",      "color": "info"     },
+      {"name": "maine",         "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "epitech",       "color": "dark"     }
+    ],
+    "subtitle": [
+      {"name": "bachelor",      "color": "primary"  }
+    ],
+    "teach": [
+      {"name": "informatik",    "color": "white"    }
+    ],
+    "year": [
+      {"name": "2012",          "color": "light"    },
+      {"name": "2011",          "color": "light"    },
+      {"name": "2010",          "color": "light"    }
+    ],
+    "loc": "94",
+    "location": [
+      {"name": "kremlin",       "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "infosup",       "color": "dark"     }
+    ],
+    "subtitle": [
+      {"name": "bts iris",      "color": "primary"  }
+    ],
+    "teach": [
+      {"name": "electronik",    "color": "white"    },
+      {"name": "informatik",    "color": "white"    }
+    ],
+    "year": [
+      {"name": "2010",          "color": "light"    },
+      {"name": "2009",          "color": "light"    }
+    ],
+    "loc": "75",
+    "location": [
+      {"name": "republik",      "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "pascal",        "color": "dark"     }
+    ],
+    "subtitle": [
+      {"name": "sti gel",       "color": "primary"  }
+    ],
+    "teach": [
+      {"name": "electronik",    "color": "white"    },
+      {"name": "mecanik",       "color": "white"    }
+    ],
+    "year": [
+      {"name": "2009",          "color": "light"    },
+      {"name": "2008",          "color": "light"    },
+      {"name": "2007",          "color": "light"    },
+      {"name": "2006",          "color": "light"    }
+    ],
+    "loc": "76",
+    "location": [
+      {"name": "saint",         "color": "info"     },
+      {"name": "sever",         "color": "info"     }
+    ],
+    "summary": [
+      {"name": "secondary", "note": "09", "max": "20"},
+      {"name": "matematik", "note": "19", "max": "20"}
+    ]
+  },
+  {
+    "title": [
+      {"name": "varende",       "color": "dark"     }
+    ],
+    "year": [
+      {"name": "2006",          "color": "light"    },
+      {"name": "2005",          "color": "light"    },
+      {"name": "2004",          "color": "light"    },
+      {"name": "2003",          "color": "light"    },
+      {"name": "2002",          "color": "light"    }
+    ],
+    "loc": "76",
+    "location": [
+      {"name": "mont",          "color": "info"     },
+      {"name": "saint",         "color": "info"     },
+      {"name": "aignan",        "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "forest gates",  "color": "dark"     }
+    ],
+    "year": [
+      {"name": "2002",          "color": "light"    },
+      {"name": "2001",          "color": "light"    },
+      {"name": "2000",          "color": "light"    },
+      {"name": "1999",          "color": "light"    },
+      {"name": "1998",          "color": "light"    },
+      {"name": "1997",          "color": "light"    }
+    ],
+    "loc": "76",
+    "location": [
+      {"name": "bois",          "color": "info"     },
+      {"name": "guillaume",     "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "bocquets",      "color": "dark"     }
+    ],
+    "year": [
+      {"name": "1997",          "color": "light"    },
+      {"name": "1996",          "color": "light"    },
+      {"name": "1995",          "color": "light"    },
+      {"name": "1994",          "color": "light"    }
+    ],
+    "loc": "76",
+    "location": [
+      {"name": "bois",          "color": "info"     },
+      {"name": "guillaume",     "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "liberty",       "color": "dark"     }
+    ],
+    "year": [
+      {"name": "1994",          "color": "light"    },
+      {"name": "1993",          "color": "light"    },
+      {"name": "1992",          "color": "light"    }
+    ],
+    "loc": "76",
+    "location": [
+      {"name": "bois",          "color": "info"     },
+      {"name": "guillaume",     "color": "info"     }
+    ]
+  },
+  {
+    "title": [
+      {"name": "belvedere",     "color": "dark"     }
+    ],
+    "year": [
+      {"name": "1991",          "color": "light"    }
+    ],
+    "loc": "76",
+    "location": [
+      {"name": "mont",          "color": "info"     },
+      {"name": "saint",         "color": "info"     },
+      {"name": "aignan",        "color": "info"     }
+    ],
+    "info": [
+      {"name": "linux",         "color": "link"     },
+      {"name": "vaccin",        "color": "danger"   },
+      {"name": "web",           "color": "primary"  }
+    ]
+  }
+]

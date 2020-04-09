@@ -1,0 +1,16 @@
+template(name='panteon')
+  .column
+    each json
+      .message
+        .message-header
+          a.button.is-dark(href='#{wiki}')= name
+          +tags date
+        .message-body
+          .columns
+            .column.is-2
+              figure.image
+                img(src='#{img}')
+            .column
+              +tags notable
+              each p in message
+                p= p

@@ -1,0 +1,14 @@
+template(name='tag')
+  .tag(class='is-#{color}')= name
+
+template(name='tagl')
+  each this
+    +tag
+
+template(name='tags')
+  .tags(class='has-addons')
+    +tagl
+
+template(name='cfi')
+  .card-footer-item
+    +tags

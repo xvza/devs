@@ -1,0 +1,93 @@
+[
+  {
+    "rcs": "SUARL",
+    "title": [
+      {"name": "cofonder",                                                                "color": "dark"}
+    ],
+    "subtitle": "Web agency specialized in the design and development of wordpress projects",
+    "year": [
+      {"name": "2015",                                                                    "color": "light"}
+    ],
+    "company": [
+      {"name": "ynca",                                                                    "color": "primary"}
+    ],
+    "location": [
+      {"name": "offshore",                                                                "color": "info"}
+    ],
+    "task": [
+      {"name": "Development and use of themes and extensions for wordpress",              "icon": "wordpress"},
+      {"name": "Database migration between CMS Framework",                                "icon": "database"},
+      {"name": "Responsive design development (suitable for different screen sizes)",     "icon": "responsive"},
+      {"name": "Writing specifications to meet the customer's needs",                     "icon": "content-copy"},
+      {"name": "SEO optimization more intelligent to better refer to the client's site",  "icon": "code-tags-check"},
+      {"name": "Development capabilities in existing web projects",                       "icon": "developer-board"}
+    ]
+  },
+  {
+    "rcs": "SARL",
+    "title": [
+      {"name": "web development",                                                         "color": "dark"}
+    ],
+    "subtitle": "Web agency specialized in the recovery of technical e-commerce project",
+    "year": [
+      {"name": "2014",                                                                    "color": "light"}
+    ],
+    "company": [
+      {"name": "pinkpepper",                                                              "color": "primary"}
+    ],
+    "location": [
+      {"name": "rouen",                                                                   "color": "info"}
+    ],
+    "task": [
+      {"name": "Management of mailing list and import profile",                           "icon": "email-variant"},
+      {"name": "Configuring and securing a server for advertising campaigns",             "icon": "server"},
+      {"name": "Database migration from different structure to another",                  "icon": "database"},
+      {"name": "Management of customer requests, development and production updates",     "icon": "message-outline"},
+      {"name": "Development of features on existing web projects",                        "icon": "developer-board"},
+      {"name": "SEO optimization on merchant sites",                                      "icon": "code-tags-check"},
+      {"name": "Graphical statistics tool for newsletters campaigns",                     "icon": "vector-curve"},
+      {"name": "Sales validation on an affiliate platform on behalf of customers",        "icon": "coin"}
+    ]
+  },
+  {
+    "rcs": "SASU",
+    "title": [
+      {"name": "web development",                                                         "color": "dark"}
+    ],
+    "subtitle": "IT Integration and Consulting Company",
+    "year": [
+      {"name": "2013",                                                                    "color": "light"}
+    ],
+    "company": [
+    {"name": "axones",                                                                    "color": "primary"}
+    ],
+    "location": [
+      {"name": "nanterre",                                                                "color": "info"}
+    ],
+    "task": [
+      {"name": "Web application for the identity management",                             "icon": "microsoft"},
+      {"name": "Setting up an application on a recipe server",                            "icon": "server"}
+    ]
+  },
+  {
+    "rcs": "EPIC",
+    "title": [
+      {"name": "web development",                                                         "color": "dark"}
+    ],
+    "subtitle": "Company operating in rail transport",
+    "year": [
+      {"name": "2012",                                                                    "color": "light"}
+    ],
+    "company": [
+      {"name": "sncf",                                                                    "color": "primary"}
+    ],
+    "location": [
+      {"name": "paris",                                                                   "color": "info"}
+    ],
+    "task": [
+      {"name": "Web application for the meeting management",                              "icon": "nodejs"},
+      {"name": "Web application for the individual declaration of intent",                "icon": "language-php"},
+      {"name": "Terms of reference and user needs survey",                                "icon": "content-copy"}
+    ]
+  }
+]

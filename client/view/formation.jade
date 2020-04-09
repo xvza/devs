@@ -1,0 +1,21 @@
+template(name='formation')
+  each json
+    .notification
+      .card
+        if summary
+          .card-content
+            .notification
+              each summary
+                =name
+                progress.progress(value= note, max= max)
+        .card-footer
+          .notification.is-marginless= loc
+          +cfi location
+          if subtitle
+            +cfi subtitle
+          +cfi title
+          if teach
+            +cfi teach
+          +cfi year
+          if info
+            +cfi info

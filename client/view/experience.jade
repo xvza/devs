@@ -1,0 +1,17 @@
+template(name='experience')
+  each json
+    .notification
+      .card
+        .card-header
+          .notification.is-marginless= rcs
+          +cfi location
+          +cfi title
+          +cfi year
+          +cfi company
+          .notification= subtitle
+        .card-content
+          .panel
+            each task
+              .control.panel-block.has-icons-right
+                =name
+                .icon.is-right.mdi(class='mdi-#{icon}')
