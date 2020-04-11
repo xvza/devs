@@ -189,6 +189,7 @@
     ],
     "info": [
       {"name": "linux",         "color": "link"     },
+      {"name": "unicode",       "color": "link"     },
       {"name": "vaccin",        "color": "danger"   },
       {"name": "web",           "color": "primary"  }
     ]

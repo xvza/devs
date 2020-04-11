@@ -10,10 +10,10 @@ standard-minifier-css@1.6.0   # CSS minifier run for production mode
 standard-minifier-js@2.6.0    # JS minifier run for production mode
 typescript@3.7.5              # Enable TypeScript syntax in .ts and .tsx modules
 cleandersonlobo:mdi-icons
-coagmano:stylus
 coffeescript
 iron:router
 lenville:bulma
 mquandalle:jade
 session
 templating
+fourseven:scss
