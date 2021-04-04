@@ -6,14 +6,14 @@
 
 meteor-base@1.4.0             # Packages every Meteor app needs to have
 
-standard-minifier-css@1.6.0   # CSS minifier run for production mode
+standard-minifier-css@1.7.2   # CSS minifier run for production mode
 standard-minifier-js@2.6.0    # JS minifier run for production mode
-typescript@3.7.5              # Enable TypeScript syntax in .ts and .tsx modules
+typescript@4.1.2              # Enable TypeScript syntax in .ts and .tsx modules
 cleandersonlobo:mdi-icons
 coffeescript
 iron:router
 lenville:bulma
 mquandalle:jade
-session
+session@1.2.0
 templating
 fourseven:scss
